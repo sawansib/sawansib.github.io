@@ -3,128 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>petpet.es/author/</loc>
+    <loc>sawansib.github.io/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/author/"
+                href="sawansib.github.io/es/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/author/"
+                href="sawansib.github.io/author/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/blog/</loc>
+    <loc>sawansib.github.io/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/blog/"
+                href="sawansib.github.io/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/blog/"
+                href="sawansib.github.io/blog/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/blog/simple-blog-post-1/</loc>
+    <loc>sawansib.github.io/blog/simple-blog-post-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/blog/simple-blog-post-1/"
+                href="sawansib.github.io/es/blog/simple-blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/blog/simple-blog-post-1/"
+                href="sawansib.github.io/blog/simple-blog-post-1/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/categories/</loc>
+    <loc>sawansib.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/categories/"
+                href="sawansib.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/categories/"
+                href="sawansib.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/blog/installation/</loc>
+    <loc>sawansib.github.io/blog/installation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/blog/installation/"
+                href="sawansib.github.io/es/blog/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/blog/installation/"
+                href="sawansib.github.io/blog/installation/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/author/john-doe/</loc>
+    <loc>sawansib.github.io/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/author/john-doe/"
+                href="sawansib.github.io/es/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/author/john-doe/"
+                href="sawansib.github.io/author/john-doe/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/author/mark-dinn/</loc>
+    <loc>sawansib.github.io/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/author/mark-dinn/"
+                href="sawansib.github.io/es/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/author/mark-dinn/"
+                href="sawansib.github.io/author/mark-dinn/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/</loc>
+    <loc>sawansib.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/"
+                href="sawansib.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/"
+                href="sawansib.github.io/"
                 />
   </url>
   
   <url>
-    <loc>petpet.es/tags/</loc>
+    <loc>sawansib.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="petpet.es/es/tags/"
+                href="sawansib.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="petpet.es/tags/"
+                href="sawansib.github.io/tags/"
                 />
   </url>
   
