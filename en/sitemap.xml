@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>petpet.es/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/blog/simple-blog-post-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/blog/simple-blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/blog/simple-blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/blog/installation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/blog/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/blog/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/author/john-doe/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/author/mark-dinn/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/"
+                />
+  </url>
+  
+  <url>
+    <loc>petpet.es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="petpet.es/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="petpet.es/tags/"
+                />
+  </url>
+  
+</urlset>

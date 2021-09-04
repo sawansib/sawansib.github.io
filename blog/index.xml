@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Pet Pet</title>
+    <link>petpet.es/blog/</link>
+    <description>Recent content in Blogs on Pet Pet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright><atom:link href="petpet.es/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Care Taker Login</title>
+      <link>petpet.es/blog/simple-blog-post-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>petpet.es/blog/simple-blog-post-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Client Login</title>
+      <link>petpet.es/blog/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>petpet.es/blog/installation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
